@@ -14,6 +14,6 @@ This repository is collection of my code and current projects, it's organized in
 - **Boreas** - *current projects*
 - **Zephyrus** - *resources*
 - **Notos** - *archive*
-- Apeliotes - *temporary folder, scratchpad*
+- **Apeliotes** - *temporary folder, scratchpad*
 Have fun, work hard.
 
