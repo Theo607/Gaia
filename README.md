@@ -10,3 +10,10 @@
 >
 > ~ Gracchus
 
+This repository is collection of my code and current projects, it's organized in a fun way.
+- **Boreas** - *current projects*
+- **Zephyrus** - *resources*
+- **Notos** - *archive*
+- Apeliotes - *temporary folder, scratchpad*
+Have fun, work hard.
+
