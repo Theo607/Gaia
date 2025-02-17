@@ -18,3 +18,6 @@ This repository is collection of my code and current projects, it's organized in
 
 Have fun, work hard.
 
+
+Links:
+[Repo with project ideas](https://github.com/karan/projects)
