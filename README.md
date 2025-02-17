@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size: 50px; font-family: 'Garamond', serif;">
+<h1 align="center" style="font-size: 80px;">
   Gaia
 </h1>
 
